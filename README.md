@@ -1,4 +1,4 @@
-# Hi there, I'm Ankit Singh 👋
+# Hi there, I'm Ankit Singh Ruhal 👋
 
 I'm a passionate software developer with a keen interest in open-source projects and innovative technologies. I enjoy solving complex problems and building scalable solutions.
 
