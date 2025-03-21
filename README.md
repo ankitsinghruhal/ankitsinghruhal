@@ -4,7 +4,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, C++
+- **Languages:** C, C++, Python, Java, HTML, CSS, Javascript
 - **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Tools & Platforms:** Docker, Kubernetes, AWS, Git, GitHub Actions
@@ -28,7 +28,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📫 How to reach me
 
-You can reach me via email at ankitsinghruhal@example.com.
+You can reach me via email at ruhalankitsingh@gmail.com.
 
 ## 🔭 Projects
 
