@@ -6,9 +6,9 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 - **Languages:** C, C++, Python, Java, HTML, CSS, Javascript
 - **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Platforms:** Docker, Kubernetes, AWS, Git, GitHub Actions
-- **Other Skills:** Agile Methodologies, Test-Driven Development, Continuous Integration/Continuous Deployment (CI/CD)
+- **Databases:** MySQL
+- **Tools & Platforms:** AWS, Git, GitHub Actions
+- **Other Skills:** Continuous Integration/Continuous Deployment (CI/CD)
 
 ## 🌱 Currently Learning
 
