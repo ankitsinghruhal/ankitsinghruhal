@@ -18,9 +18,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📈 GitHub Stats
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitsinghruhal&show_icons=true&theme=radical)
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitsinghruhal&show_icons=true&theme=radical)
-
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitsinghruhal)
 
 ## 🔗 Connect with Me
 
