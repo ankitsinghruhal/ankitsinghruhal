@@ -28,7 +28,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📫 How to reach me
 
-You can reach me via email at ruhalankitsingh@gmail.com.
+You can reach me via instagram.
 
 ## 🔭 Projects
 
