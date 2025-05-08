@@ -5,8 +5,8 @@ I'm a passionate software developer with a keen interest in open-source projects
 ## 🛠️ Technologies & Tools
 
 - **Languages:** C, C++, Python, Java, HTML, CSS, Javascript
-- **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
-- **Databases:** MySQL
+- **Frameworks & Libraries:** React, Node.js, Django
+- **Databases:** MySQL, Oracle PL/SQL
 - **Tools & Platforms:** AWS, Git, GitHub Actions
 - **Other Skills:** Continuous Integration/Continuous Deployment (CI/CD)
 
@@ -39,6 +39,6 @@ Feel free to check out my repositories for more projects and contributions!
 
 ## 🤔 Fun Fact
 
-I love hiking and exploring new places in my free time.
+I love playing chess, reading books and exploring new things.
 
 Thanks for visiting my profile! Have a great day! 😊
