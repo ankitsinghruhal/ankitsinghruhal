@@ -69,9 +69,6 @@
 </div>
 
 <br>
-<div align="center">
-  <img src="./assets/terminal.gif" />
-</div>
 <img src="./assets/border_separator.gif">
 
 <!-- Github Stats -->
@@ -103,11 +100,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitsinghruhal&theme=tokyonight" width="340px" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitsinghruhal&theme=tokyonight&utcOffset=+8.0" width="340px" />
   </div>
-
-  <!-- Wakatime Stats  -->
-   <div style="margin-bottom: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ankitsinghruhal&layout=compact&theme=tokyonight&hide_border=true" width="680px" />
-   </div>
   
 </div>
 
