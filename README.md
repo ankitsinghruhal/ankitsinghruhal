@@ -1,44 +1,215 @@
-# Hi there, I'm Ankit Singh Ruhal 👋
+  <a href="https://github.com/ankitsinghruhal">
+    <img src="https://img.shields.io/github/followers/ankitsinghruhal?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/ankitsinghruhal?tab=repositories">
+    <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-ankitsinghruhal-blueviolet" alt="Star My Repos" />
+  </a>
+  <a href="https://github.com/ankitsinghruhal">
+    <img src="https://komarev.com/ghpvc/?username=ankitsinghruhal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/ankitsinghruhal">
+    <img src="https://img.shields.io/github/last-commit/ankitsinghruhal/ankitsinghruhal?color=green" alt="Last Commit" />
+  </a>
+  <a href="https://github.com/ankitsinghruhal">
+    <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
+  </a>
+</p>
 
-I'm a passionate software developer with a keen interest in open-source projects and innovative technologies. I enjoy solving complex problems and building scalable solutions.
+![MASTER-HEAD](./assets/api_animated_gif.gif)
 
-## 🛠️ Technologies & Tools
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7BB&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Alex%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+%E2%80%94+it+really+helps!)](https://git.io/typing-svg)
+<img src="./assets/border_separator.gif">
 
-- **Languages:** C, C++, Python, Java, HTML, CSS, Javascript
-- **Frameworks & Libraries:** React, Node.js, Django
-- **Databases:** MySQL, Oracle PL/SQL
-- **Tools & Platforms:** AWS, Git, GitHub Actions
-- **Other Skills:** Continuous Integration/Continuous Deployment (CI/CD)
+<div align="center">
+  <h3>Profile Info</h3>
+  <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Contact me</strong>
+       <br>
+       <br>
+         <a href="mailto:ruhalankitsingh@gmail.com">
+            <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
+          </a>
+           <a href="https://github.com/ankitsinghruhal">
+            <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
+          </a>
+          <a href="https://www.linkedin.com/in/ankitsinghruhal">
+            <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
+          </a>
+         </p>
+     </div>
+   </kbd>
+  <kbd>
+     <div align="center">
+         <p>
+       <br> 
+         <strong>Profile Views</strong>
+       <br>
+       <br>
+           <img src="https://profile-counter.glitch.me/ankitsinghruhal/count.svg" width="350px" />
+         </p>
+     </div>
+   </kbd>
+   <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Followers Count</strong>
+       <br>
+       <br>
+       <br>
+          <img src="https://img.shields.io/github/followers/ankitsinghruhal?label=Followers&style=social" alt="followers-count" width="150px"> 
+       <br>
+       <br>
+         </p>
+     </div>
+  </kbd>
+</div>
 
-## 🌱 Currently Learning
+<br>
+<div align="center">
+  <img src="./assets/terminal.gif" />
+</div>
+<img src="./assets/border_separator.gif">
 
-- Advanced Cloud Computing
-- Machine Learning & AI
-- Blockchain Technology
+<!-- Github Stats -->
+<div align="center">
 
-## 📈 GitHub Stats
+  | Top Languages | Trophies |
+  | --- | --- |
+  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghruhal&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="315px"/> | <img src="https://github-profile-trophy.vercel.app/?username=ankitsinghruhal&theme=tokyonight&column=4&no-frame=true&margin-w=10&margin-h=10" width="315px"/> |
+  
+  <h3>Github Stats</h3>
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitsinghruhal&show_icons=true&theme=radical)
+  <!-- Profile Summary and Streak -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitsinghruhal&theme=tokyonight" width="680px" />
+  </div>
 
-## 🔗 Connect with Me
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"/>
+    <img src="https://streak-stats.demolab.com?user=ankitsinghruhal&theme=tokyonight&hide_border=true" width="680px" />
+  </div>
 
-- [LinkedIn](https://www.linkedin.com/in/ankitsinghruhal/)
-- [Twitter](https://twitter.com/ankitsinghruhal)
-- [Personal Website](https://ankitsinghruhal.github.io)
+  <!-- Language Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitsinghruhal&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitsinghruhal&theme=tokyonight" width="340px" />
+  </div>
 
-## 📫 How to reach me
+  <!-- Activity Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitsinghruhal&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitsinghruhal&theme=tokyonight&utcOffset=+8.0" width="340px" />
+  </div>
 
-You can reach me via instagram.
+  <!-- Wakatime Stats  -->
+   <div style="margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ankitsinghruhal&layout=compact&theme=tokyonight&hide_border=true" width="680px" />
+   </div>
+  
+</div>
 
-## 🔭 Projects
+<!-- Language and Tools -->
 
-Here are some of my notable projects:
+<div align="center">
+  <h3>Technologies and Tools</h3>
 
-- **[Project 1](https://github.com/ankitsinghruhal/)
-Feel free to check out my repositories for more projects and contributions!
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Programming Languages</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java,bash&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
 
-## 🤔 Fun Fact
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Libraries, Frameworks & Databases</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
 
-I love playing chess, reading books and exploring new things.
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>DevOps & Cloud</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,cloudflare,azure,vercel&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
 
-Thanks for visiting my profile! Have a great day! 😊
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Operating Systems, Platforms & Networks</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,ubuntu,windows,discord,github,linkedin,instagram,stack-overflow&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>IDEs & Code Editors, Testing & Monitoring</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,idea,postman&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Design & Creative Tools, Build Tools & Package Managers</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,npm&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+</div>
+
+
+<img src="./assets/border_separator.gif">
+
+## 🌟 Enjoying My Projects?
+
+If you find my work helpful or interesting, please consider **starring my repositories** or **following me on GitHub** — it really motivates me to keep building and sharing! 😊
+
+👉 [View All My Repositories](https://github.com/ankitsinghruhal?tab=repositories)  
+👉 [Follow Me on GitHub](https://github.com/ankitsinghruhal)
+
+Thanks for your support! 💖
