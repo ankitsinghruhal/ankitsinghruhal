@@ -187,7 +187,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,npm&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=pnpm,photoshop,audacity,npm&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
