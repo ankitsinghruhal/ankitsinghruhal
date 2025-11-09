@@ -29,10 +29,10 @@
          <strong>Contact me</strong>
        <br>
        <br>
-         <a href="mailto:ruhalankitsingh@gmail.com">
-            <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
+         <a href="https://www.instagram.com/ankit_singh_ruhal">
+            <img src="https://skillicons.dev/icons?i=instagram"  width="auto" height="auto"/>
           </a>
-           <a href="https://github.com/ankitsinghruhal">
+           <a href="https://www.github.com/ankitsinghruhal">
             <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
           </a>
           <a href="https://www.linkedin.com/in/ankitsinghruhal">
