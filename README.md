@@ -44,17 +44,6 @@
   <kbd>
      <div align="center">
          <p>
-       <br> 
-         <strong>Profile Views</strong>
-       <br>
-       <br>
-           <img src="https://profile-counter.glitch.me/ankitsinghruhal/count.svg" width="350px" />
-         </p>
-     </div>
-   </kbd>
-   <kbd>
-     <div align="center">
-         <p>
        <br>
          <strong>Followers Count</strong>
        <br>
